@@ -3,8 +3,16 @@
 }
 
 
-p{
+.firstParagraph{
     background-color: gray;
-    color: yellow;
+    color: pink;
+}
+.thirdParagraph{
+    background-color: gray;
+    color: pink;
+}
+.fourthParagraph{
+    background-color: gray;
+    color: pink;
 }
 
