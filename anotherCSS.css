@@ -9,6 +9,7 @@
 }
 span{
     text-decoration: underline;
+    display: block;
 }
 .thirdParagraph{
     background-color: gray;
