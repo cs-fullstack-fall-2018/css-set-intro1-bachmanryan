@@ -7,6 +7,9 @@
     background-color: gray;
     color: pink;
 }
+span{
+    text-decoration: underline;
+}
 .thirdParagraph{
     background-color: gray;
     color: pink;
